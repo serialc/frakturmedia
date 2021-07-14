@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 36 640 408" font-family="Times New Roman, serif" font-weight="bold" text-anchor="middle">
+
+  <title>Sustainable Development</title>
+  <metadata>
+    <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:creator rdf:resource="https://commons.wikimedia.org/wiki/User:Nojhan"/>
+        <dc:contributor>
+          <rdf:Bag>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:Pro_bug_catcher"/>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:Aperezb"/>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:Sebastian_Wallroth"/>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:ThomasPusch"/>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:HUB"/>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:Florianoscioscia~commonswiki"/>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:Semu"/>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:Albedo-ukr"/>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:Forgetmyself"/>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:Karlisr"/>
+            <rdf:li rdf:resource="https://eu.wikipedia.org/wiki/Lankide:Josugoni"/>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:Carl_S_Bj"/>
+            <rdf:li rdf:resource="https://commons.wikimedia.org/wiki/User:Glrx"/>
+          </rdf:Bag>
+        </dc:contributor>
+        <dc:publisher rdf:resource="https://commons.wikimedia.org"/>
+        <cc:license>
+          <rdf:Alt>
+            <rdf:li rdf:resource="https://creativecommons.org/licenses/by-sa/3.0/deed.en"/>
+            <rdf:li rdf:resource="https://creativecommons.org/licenses/by-sa/2.0/deed.en"/>
+            <rdf:li rdf:resource="https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en"/>
+          </rdf:Alt>
+        </cc:license>
+        <cc:attributionURL rdf:resource="https://commons.wikimedia.org/wiki/File:Sustainable_development.svg"/>
+        <cc:attributionName>Johann Dréo</cc:attributionName>
+        <dc:date>2006-03-09</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <linearGradient id="linearGradient2136">
+      <stop style="stop-color:#ffffff;stop-opacity:1.0000000;" offset="0.0000000" id="stop2138"/>
+      <stop style="stop-color:#bcbcbc;stop-opacity:1.0000000;" offset="1.0000000" id="stop2140"/>
+    </linearGradient>
+    <radialGradient xlink:href="#linearGradient2136" id="radialGradient2142" cx="320.00000" cy="266.85938" fx="320.00000" fy="266.85938" r="54.882745" gradientTransform="matrix(1.000000,0.000000,0.000000,0.703345,0.000000,76.23111)" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  
+  <path id="path2072" style="fill:#b9dcff;stroke:#005ec8;stroke-width:2.2029893;" d="M 502.03766,173.07524 C 502.05865,240.10955 420.55145,294.45903 319.99996,294.45903 C 219.44849,294.45903 137.94130,240.10955 137.96228,173.07524 C 137.94130,106.04092 219.44849,51.691446 319.99996,51.691446 C 420.55145,51.691446 502.05865,106.04092 502.03766,173.07524 L 502.03766,173.07524 z "/>
+  <path id="path1342" style="fill:#b9ffc2;stroke:#00c817;stroke-width:2.2029893;" d="M 375.98179,306.92479 C 376.00278,373.95910 294.49558,428.30858 193.94409,428.30858 C 93.392619,428.30858 11.885428,373.95910 11.906414,306.92479 C 11.885428,239.89047 93.392619,185.54100 193.94409,185.54100 C 294.49558,185.54100 376.00278,239.89047 375.98179,306.92479 L 375.98179,306.92479 z "/>
+  <path id="path2070" style="fill:#ffb9b9;stroke:#c80000;stroke-width:2.2029893;" d="M 628.09359,306.92479 C 628.11458,373.95910 546.60738,428.30858 446.05589,428.30858 C 345.50442,428.30858 263.99723,373.95910 264.01821,306.92479 C 263.99723,239.89047 345.50442,185.54100 446.05589,185.54100 C 546.60738,185.54100 628.11458,239.89047 628.09359,306.92479 L 628.09359,306.92479 z "/>
+  <path style="fill:#fff991;stroke:#e6b300;stroke-width:2.20298934" d="M 319.99231,219.59173 C 285.53048,241.67864 264.01279,272.67363 264.02356,307.06048 C 264.0128,341.44732 285.53048,372.41107 319.99231,394.49798 C 354.45414,372.41107 375.97183,341.44731 375.96106,307.06048 C 375.97183,272.67364 354.45414,241.67864 319.99231,219.59173 z " id="path2089"/>
+
+  <switch transform="translate(315,142)" font-size="32px" fill="#004ba0">
+    <text systemLanguage="en">Social</text>
+    <text systemLanguage="ca">Social</text>
+    <text systemLanguage="de">sozial</text>
+    <text systemLanguage="eo">Sociala</text>
+    <text systemLanguage="es">Social</text>
+    <text systemLanguage="eu">Gizartea</text>
+    <text systemLanguage="fr">Social</text>
+    <text systemLanguage="it">Sociale</text>
+    <text systemLanguage="lv">Sabiedrība</text>
+    <text systemLanguage="no">Sosialt</text>
+    <text systemLanguage="pl">Społeczeństwo</text>
+    <text systemLanguage="uk">Соціум</text>
+    <text systemLanguage="zh-hans">社会</text>
+    <text>Social</text>
+  </switch>
+
+  <switch transform="translate(140,337)" font-size="32px" fill="#00a012">
+    <text systemLanguage="en">Environment</text>
+    <text systemLanguage="ca">Ecològic</text>
+    <text systemLanguage="de">ökologisch</text>
+    <text systemLanguage="eo">Ekologia</text>
+    <text systemLanguage="es">Ecológico</text>
+    <text systemLanguage="eu">Ingurumena</text>
+    <text systemLanguage="fr">Écologique</text>
+    <text systemLanguage="it">Ambientale</text>
+    <text systemLanguage="lv">Vide</text>
+    <text systemLanguage="no">Miljømessig</text>
+    <text systemLanguage="pl">Środowisko</text>
+    <text systemLanguage="uk">Довкілля</text>
+    <text systemLanguage="zh-hans">环境</text>
+    <text>Environment</text>
+  </switch>
+
+  <switch transform="translate(495,337)" font-size="32px" fill="#a00000">
+    <text systemLanguage="en">Economic</text>
+    <text systemLanguage="ca">Econòmic</text>
+    <text systemLanguage="de">ökonomisch</text>
+    <text systemLanguage="eo">Ekonomia</text>
+    <text systemLanguage="es">Económico</text>
+    <text systemLanguage="eu">Ekonomia</text>
+    <text systemLanguage="fr">Économique</text>
+    <text systemLanguage="it">Economico</text>
+    <text systemLanguage="lv">Tautsaimniecība</text>
+    <text systemLanguage="no">Økonomisk</text>
+    <text systemLanguage="pl">Ekonomia</text>
+    <text systemLanguage="uk">Економіка</text>
+    <text systemLanguage="zh-hans">经济</text>
+    <text>Economic</text>
+  </switch>
+
+  <switch transform="translate(317,345)" font-size="24" font-style="italic" fill="#795e00">
+    <text systemLanguage="en">Viable</text>
+    <text systemLanguage="ca">Viable</text>
+    <text systemLanguage="de">lebensfähig</text>
+    <text systemLanguage="eo">Vivipova</text>
+    <text systemLanguage="es">Viable</text>
+    <text systemLanguage="eu">Bideragarria</text>
+    <text systemLanguage="fr">Viable</text>
+    <text systemLanguage="it">Realizzabile</text>
+    <text systemLanguage="lv">Dzīvotspējīga</text>
+    <text systemLanguage="no">Levedyktig</text>
+    <text systemLanguage="pl">Wykonalny</text>
+    <text systemLanguage="uk" y="-15">Життє-<tspan x="0" dy="30">здатний</tspan></text>
+    <text systemLanguage="zh-hans">可行的</text>
+    <text>Viable</text>
+  </switch>
+  
+  <path style="fill:#91f8ff;stroke:#00bcc8;stroke-width:2.2029893;" d="M 193.93750 185.53125 C 175.20819 185.53125 157.16028 187.43545 140.15625 190.93750 C 153.12438 249.48264 228.57405 294.46876 320.00000 294.46875 C 338.72931 294.46875 356.77722 292.56455 373.78125 289.06250 C 360.81313 230.51736 285.36346 185.53125 193.93750 185.53125 z " id="path2079"/>
+  <path style="fill:#de91ff;stroke:#8b00c8;stroke-width:2.2029893;" d="M 446.06250 185.53125 C 354.63656 185.53125 279.18688 230.51735 266.21875 289.06250 C 283.22278 292.56455 301.27069 294.46875 320.00000 294.46875 C 411.42596 294.46875 486.87563 249.48264 499.84375 190.93750 C 482.83972 187.43545 464.79182 185.53125 446.06250 185.53125 z " id="path2084"/>
+  <path style="fill:url(#radialGradient2142);stroke:#646464;stroke-width:2.2029893;" d="M 320.00000 219.46875 C 291.63512 237.64807 272.24065 261.87636 266.21875 289.06250 C 283.22278 292.56455 301.27069 294.46875 320.00000 294.46875 C 338.72931 294.46875 356.77722 292.56455 373.78125 289.06250 C 367.75935 261.87636 348.36488 237.64807 320.00000 219.46875 z " id="path1346"/>
+
+  <switch transform="translate(320,277.5) scale(0.7,1.0)" font-size="24" font-style="italic" fill="black">
+    <text systemLanguage="en">Sustainable</text>
+    <text systemLanguage="ca">Sostenible</text>
+    <text systemLanguage="de">nachhaltig</text>
+    <text systemLanguage="eo">Daŭriva</text>
+    <text systemLanguage="es">Sostenible</text>
+    <text systemLanguage="eu">Iraunkorra</text>
+    <text systemLanguage="fr">Durable</text>
+    <text systemLanguage="it">Sostenibile</text>
+    <text systemLanguage="lv">Ilgtspējīga</text>
+    <text systemLanguage="no">Bærekraftig</text>
+    <text systemLanguage="pl">Zrównoważenie</text>
+    <text systemLanguage="uk">Стійкий</text>
+    <text systemLanguage="zh-hans" transform="scale(1.4,1)">可持续的</text>
+    <text>Sustainable</text>
+  </switch>
+
+  <switch transform="translate(235,234)" font-size="24" font-style="italic" fill="#008463">
+    <text systemLanguage="en">Bearable</text>
+    <text systemLanguage="ca">Soportable</text>
+    <text systemLanguage="de">lebenswert</text>
+    <text systemLanguage="eo">Travivebla</text>
+    <text systemLanguage="es">Soportable</text>
+    <text systemLanguage="eu">Bizzigarria</text>
+    <text systemLanguage="fr">Vivable</text>
+    <text systemLanguage="it">Vivibile</text>
+    <text systemLanguage="lv">Paciešama</text>
+    <text systemLanguage="no">Utholdelig</text>
+    <text systemLanguage="pl">Znośny</text>
+    <text systemLanguage="uk">Зносний</text>
+    <text systemLanguage="zh-hans">可承受的</text>
+    <text>Bearable</text>
+  </switch>
+
+  <switch transform="translate(415,234)" font-size="24" font-style="italic" fill="#7f00a0">
+    <text systemLanguage="en">Equitable</text>
+    <text systemLanguage="ca">Equitatiu</text>
+    <text systemLanguage="de">fair</text>
+    <text systemLanguage="eo">Justa</text>
+    <text systemLanguage="es">Equitativo</text>
+    <text systemLanguage="eu">Bidezkoa</text>
+    <text systemLanguage="fr">Équitable</text>
+    <text systemLanguage="it">Equo</text>
+    <text systemLanguage="lv">Vienlīdzīga</text>
+    <text systemLanguage="no">Rettferdig</text>
+    <text systemLanguage="pl">Sprawiedliwy</text>
+    <text systemLanguage="uk">Справедливий</text>
+    <text systemLanguage="zh-hans">公平的</text>
+    <text>Equitable</text>
+  </switch>
+</svg>
