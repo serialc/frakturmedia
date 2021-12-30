@@ -10,7 +10,8 @@ featuredpath: 'date'
 slug: hybrid-park-spaces
 description: Urban parks can be rewilded, enhancing their value.
 type: post
-draft: false
+comments: false
+
 ---
 
 Space is classified, categorized and used according to its designated purpose. Rarely are areas shared between purposes. Space, when allocated to a city department, is at a premium and unlikely to be partially used or willingly shared.

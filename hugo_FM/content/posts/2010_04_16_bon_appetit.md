@@ -10,7 +10,7 @@ featuredpath: 'date'
 slug: "bon-appetit-have-some-ads"
 description: "An infographic critique of magazines and their too many ads."
 type: post
-draft: false
+comments: false
 ---
 
 I don’t read magazines. I enjoy the Weekly Guardian newspaper and surf many websites for news. In reading the American ‘bon appétit’ cooking magazine that Julia gifted me for Christmas I have rediscovered that magazines have too much advertisement. Not only are there many explicit ads, there are ads masquerading as columns, and then there are the insidious ads where the magazine is blatantly pushing brand name items in their columns.

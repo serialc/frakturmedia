@@ -10,7 +10,7 @@ featuredpath: 'date'
 slug: "body_of_hurt"
 description: "An infographic showing which side we report/ask more about pain on our bodies."
 type: post
-draft: false
+comments: false
 ---
 While Google provides analytical tools such as Google trends, it is possible to make deductions from the number of hits a search gets. Things people are more interested in will have more results. For some reason I began thinking about using Google hits to see if people have greater pain on their left or right body part. I opened a spreadsheet and began doing Google searches for ‘my \[left/right\] \[body part\] hurts’ for many body parts.
 

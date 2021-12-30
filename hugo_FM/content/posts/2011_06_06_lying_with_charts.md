@@ -11,7 +11,8 @@ featuredpath: 'date'
 slug: "how_to_lie_with_charts"
 description: "Charts, are a regular component of maps. Just like maps, subtle changes can distort the message that the data has. While maps must lie, by distorting space/scale, charts need not. Yet incomprehension, bias and desire to 'jazz-up' charts usually leads to false 'statements'."
 type: post
-draft: false
+comments: false
+
 ---
 
 If you've never read [How to Lie with Maps](https://press.uchicago.edu/ucp/books/book/chicago/H/bo27400568.html) by Mark Monmonier, now is the time. Since reading this book I have kept an eye out for examples of lying maps and charts. I am often rewarded with examples such as this:

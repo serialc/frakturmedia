@@ -11,12 +11,13 @@ featuredpath: 'date'
 slug: new_context_for_research
 description: The climate crisis is too frequently invisible or given cursory attention. A new perspective for research and society is needed to make the mitigation pervasive and explicit. This post describes why reframing our research to a more likely future, rather than one that mimics the present but with incremental (and insufficient) effort towards sustainability, is necessary.
 type: post
-draft: false
+comments: false
+
 ---
 
 (Header image source [#ShowYourStripes](https://showyourstripes.info/) shows global temperature for 1850 to 2018)
 
-# A new context for research after sustainability
+# A new context for research after sus&shy;tainability
 
 This post contains the slides and script from a presentation given December 13th, 2018 at [LISER](https://www.liser.lu) and an evolved and shortened version on July 11th, 2019 at the [Energy and Environment Institude](https://www.hull.ac.uk/work-with-us/research/institutes/energy-and-environment-institute.aspx) mini-conference.
 

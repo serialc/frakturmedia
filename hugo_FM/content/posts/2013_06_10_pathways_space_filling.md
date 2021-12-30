@@ -9,7 +9,8 @@ featuredpath: 'date'
 slug: "pathways_filling_space"
 description: "Scientific work can sometimes, with a little added work, create nice or appealing graphics. Work on urban growth modelling led to this interactive design tool."
 type: post
-draft: false
+comments: false
+
 ---
 
 As part of urban modelling work I was designing ways to fill empty spaces with potential residences. These randomly generated parcels would then be evaluated by potential home buying agents. A spinoff of this work led to an 'artistic' graphic design app.

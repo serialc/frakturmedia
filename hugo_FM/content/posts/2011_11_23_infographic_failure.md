@@ -10,7 +10,8 @@ featuredpath: 'date'
 slug: "infographic_failure"
 description: "Infographics are power and effective, yet conversely can be empty of meaning, lie and communicate incorrect messages without the intent."
 type: post
-draft: false
+comments: false
+
 ---
 
 Infographics serve to simplify the communication of complexity by showing shapes, relationships, metaphors, hues, flows and symbols to represent values. A visually clean and attractive layout is common. We are more quickly able to compare visual values such as areas than numbers. Numbers and words require a more steps: deciphering (reading), translating to meaning and finally absorption. Visual symbols are directly absorbed.

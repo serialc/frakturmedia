@@ -10,7 +10,8 @@ featuredpath: 'date'
 slug: "country_pop_dist_google_mashup"
 description: "A mashup of Google graphs and maps."
 type: post
-draft: false
+comments: false
+
 ---
 I have been pondering for some time what the result of displaying bar charts of latitude and longitude population distributions for countries would look like. A co-worker recently shared with me a site with city populations for the whole world. I finally managed to get around to creating a mashup of Google Charts and Maps.
 

@@ -10,7 +10,8 @@ featuredpath: 'date'
 slug: green-bands
 description: What amount of trees along highways offsets their transport emissions?
 type: post
-draft: false
+comments: false
+
 ---
 Many cities have green belts of either forest or agricultural fields. These areas are delineated and maintained to create accessible green recreation/athletic spaces, preserve rich agricultural soils, allow wildlife to return, improve air quality and simply provide aesthetically pleasing views.
 

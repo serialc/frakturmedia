@@ -10,7 +10,8 @@ featuredpath: 'date'
 slug: "carto_symbol_generator"
 description: "Take a second to check you understand how to scale chart and cartographic symbols appropriately."
 type: post
-draft: false
+comments: false
+
 ---
 
 I have spoken about inappropriately sized symbols in other posts before. While generating some of the graphics for those articles I realized that it would be quite easy to generate the symbols automatically based on their values rather than trying to size them manually within the graphics editor. This could prevent myself as well as others inadvertent editing mistakes as well as methodological ones where people simply do not consider the correct representation of symbols.

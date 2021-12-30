@@ -10,7 +10,8 @@ featuredpath: 'date'
 slug: "city_evolution_residential_microecon_model"
 description: "I recently read a journal article my supervisor had co-written and thought “I can replicate this!”. The article clearly laid out a method for creating a model that would distribute houses around a central business district based on the preferences of the agents and other model parameters."
 type: post
-draft: false
+comments: false
+
 ---
 
 The original program on which the [publication](https://link.springer.com/chapter/10.1007%2F978-3-642-02466-5_40) is based on was written in Java but loving SVG I decided to recreate the model using JavaScript and SVG. I also created a version without SVG using div tags as cells instead for speed comparison testing. Surprisingly, and much to my happiness, using SVG was slightly faster than using the DOM to display square cells.

@@ -9,7 +9,8 @@ featuredpath: 'date'
 slug: "better_banking"
 description: "An interactive infographic showing how a better banking information system could facilitate your understanding and control of your spending habits."
 type: post
-draft: false
+comments: false
+
 ---
 I don’t use credit cards as means of delaying payment over a longer period of time, but I like their ease and simplicity. Swipe and go (This was before VPay). I pay no fees. Simple.
 

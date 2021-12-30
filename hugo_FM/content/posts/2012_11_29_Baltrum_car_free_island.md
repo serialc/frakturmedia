@@ -10,7 +10,8 @@ featuredpath: 'date'
 slug: "baltrum_car_free_island_community"
 description: "Our car culture is one alternative, others work fine too."
 type: post
-draft: false
+comments: false
+
 ---
 
 As you leave behind a car park and, after a 40 minute ferry trip, arrive to a much more peaceful wagon park, the car-free contrast is jarring. Not only is the setting calmer but the people have also relaxed. No one is in a rush to find parking, get luggage from the car, get on the ferry before it leaves. Each family walks down the rows of wagons looking for the one with their house number on it. These transport wagons sport a hitch to be mounted behind a bike but also two hand grips so they may be hand-pulled. These wagons are large enough to fit a couple large suitcases and some tired children. So begins the walk from the ferry terminal into town and to our rental home. The ferry traffic quickly spreads down the road as those with bikes or in horse taxis pull ahead.

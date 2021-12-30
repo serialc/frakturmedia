@@ -9,7 +9,8 @@ featuredpath: 'date'
 slug: "alternate_clocks"
 description: "If you think is metric is superior to imperial, than why not question our 'unmetric like' time system?"
 type: post
-draft: false
+comments: false
+
 ---
 A day has 24 hours in it. That’s 1,440 minutes or 86,400 seconds. If you wonder why Americans don’t understand the need for using the metric system then ask yourself why you use this inconsistent time measurement system.
 

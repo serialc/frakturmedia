@@ -1,149 +1,141 @@
+# For a description of these parameters, please visit the theme wiki.
+# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://frakturmedia.net/"
 DefaultContentLanguage  = "en"
 title                   = "FrakturMedia"
 theme                   = "hugo-future-imperfect-slim"
-preserveTaxonomyNames   = true
-paginate                = 5
+paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = [""]
+disableLanguages        = []
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[module]
+  [module.hugoVersion]
+  extended              = true
+  min                   = "0.62.0"
+
+[outputs]
+  home                  = ["html", "json", "rss"]
 
 [params]
-  mainSections = ["blog", "post"]
-  # Loads CSS and JavaScript files. The variable is an array so that you can load
-  # multiple/additional files if necessary. The standard theme files can be loaded
-  # by adding the value, "default". Default includes the add-on.css and and-on.js.
-  # Example: ["default", "/path/to/file"]
+  mainSections          = ["post"]
+  enableCDN             = false
   cssFiles              = ["default"]
   jsFiles               = ["default"]
-  # Sets options for highlight.js
   highlightjs           = true
   highlightjsTheme      = "github"
-  highlightjsLang       = ["html", "css", "js", "toml"]
-  # Sets where "View More Posts" links to
-  viewMorePostsLink     = "/posts/"
-  # Activate Estimated Reading Times, which appear in the post headers
+  highlightjsLang       = ["html", "css", "js"]
+  viewMorePostsLink     = "posts"
   readingTime           = true
-  # Sets which Social Share links appear in posts.
-  # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = ["github", "twitter", "email"]
+  imageStretch          = ""
+  removeBlur            = false
+  socialShare           = ["twitter", "email"]
+#socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  hideEmptyStats        = false
+  toc                   = true
+  tocWords              = 400
 
   [params.meta]
-    # Sets the meta tag description
     description         = "GIS, transport, society and other analytical ramblings."
-    # Sets the meta tag author
     author              = "Cyrille M&eacute;dard de Chardon"
-    # If you would like to add more comprehensive favicon support passed root
-    # directory favicon.ico, utlize this function. It is recommened to use
-    # https://realfavicongenerator.net to generate your icons as that is the basis
-    # for the theme's naming.
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
-    msColor             = "#ffffff" # Copy from the https://realfavicongenerator.net
-    iOSColor            = "#ffffff" # Copy from the https://realfavicongenerator.net
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
 
   [params.header]
-    # Sets the navbarTitle that appears in the top left of the navigation bar
     navbarTitle         = "FrakturMedia"
-    # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = false
 
-  # These are optional params related to the sidebar. They are recommended, but not
-  # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "FrakturMedia"
     paragraph             = "GIS, transport, society and other analytical ramblings."
     rssIntro              = true
     socialIntro           = true
+    hideWhenSingleColumn  = true
+    alwaysOnHomepage      = false
 
-    # This appears at the top of the sidebar above params.intro.header.
-    # A width of less than 100px is recommended from a design perspective.
     [params.intro.pic]
       src                 = "img/main/cyrille_lhp_sq.jpg"
-      # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = "100"
-      alt                 = ""
+      alt                 = "Cyrille MdC"
 
   [params.sidebar]
-    about               = "Some analytical data analysis ramblings on transport and society using GIS, R and other effective tools."
-    # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    postAmount          = 14
-    # set to show or to hide categories in the sidebar
-    categories          = false 
-    # Sets Categories to sort by number of posts instead of alphabetical
+    about               = "Some data analysis ramblings on transport and society using GIS, R, Python, and other effective tools."
+    postAmount          = 5
+    categories          = true
     categoriesByCount   = true
 
   [params.footer]
-    # Sets RSS icons to appear on the sidebar with the social media buttons
     rssFooter           = true
-    # Sets Social Media icons to appear on the sidebar
     socialFooter        = true
 
-  # Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
-  # due to its ease of use. Feel free to check out both and decide which you would
-  # prefer to use. See Staticman.yml for additional settings.
+  [params.utterances]
+    enabled             = false
+    repo                = ""
+    issueTerm           = "pathname"
+    issueNumber         = ""
+    label               = ""
+    theme               = "github-light"
+
   [params.staticman]
-    # Sets Statiman to be active
-    staticman           = false
-    # Sets the location for Staticman to connect to
+    enabled             = true
+    api                 = ""  # No Trailing Slash
+    gitProvider         = ""
     username            = ""
     repo                = ""
     branch              = ""
 
     [params.staticman.recaptcha]
-      recaptcha         = false
-      siteKey           = "" # Site Key
+      siteKey           = ""
       encryptedKey      = ""
 
 [menu]
-  # Sets the menu items in the navigation bar
-  # Identifier prepends a Font Awesome icon to the menu item
+
   [[menu.main]]
     name              = "Home"
-    url               = "/"
-    identifier        = "fas fa-home"
+    identifier        = "home"
+    url               = ""
+    pre               = "<i class='fas fa-home'></i>"
     weight            = 1
-
-  #[[menu.main]]
-    #name              = "Posts"
-    #url               = "/posts/"
-    #identifier        = "far fa-newspaper"
-    #weight            = 2
-
-  [[menu.main]]
-    name              = "Categories"
-    url               = "/categories/"
-    identifier        = "fas fa-sitemap"
-    weight            = 3
 
   [[menu.main]]
     name              = "About"
-    url               = "/about/"
-    identifier        = "far fa-id-card"
-    weight            = 4
+    identifier        = "about"
+    url               = "about"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 2
 
-  #[[menu.main]]
-    #name              = "Contact"
-    #url               = "/contact/"
-    #identifier        = "far fa-envelope"
-    #weight            = 6
+  [[menu.main]]
+    name              = "Categories"
+    identifier        = "categories"
+    url               = "categories"
+    pre               = "<i class='fas fa-sitemap'></i>"
+    weight            = 5
+
+#[[menu.main]]
+#name              = "Contact"
+#identifier        = "contact"
+#url               = "contact"
+#pre               = "<i class='far fa-envelope'></i>"
+#weight            = 6
 
 [Languages]
-  # Each language has its own menu.
+
   [Languages.en]
-    languageCode        = "en"
+    LanguageCode        = "en"
     LanguageName        = "English"
     weight              = 1
 
-# Sets Social Media icons to appear and link to your account. Value should be your
-# username unless otherwise noted. These are the icons affected by socialAppearAtTop
-# and socialAppearAtBottom.
 [social]
   # Coding Communities
   github                = "serialc"
@@ -154,22 +146,22 @@ disableLanguages        = [""]
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  #flickr                = "example"
+#flickr                = "example"
   behance               = ""
   dribbble              = ""
   # Publishing Communities
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  #linkedin              = "example"
-  #linkedin_company      = "examplebusiness"
+#linkedin              = "example"
+#linkedin_company      = "examplebusiness"
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
-  #facebook              = "example"
+#  facebook              = "example"
   googleplus            = ""
-  #reddit                = "example"
+#  reddit                = "example"
   quora                 = ""
   youtube               = ""
   vimeo                 = ""
@@ -177,16 +169,19 @@ disableLanguages        = [""]
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  #instagram             = "example"
+#  instagram             = "example"
   tumblr                = ""
   twitter               = "serialc"
+  strava                = ""
   skype                 = ""
   snapchat              = ""
-  #pinterest             = "example"
-  #telegram              = "example"
+# pinterest             = "example"
+#  telegram              = "example"
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  #researchgate          = "example"
+#  researchgate          = "example"
+#  keybase               = "example"
+#  mastodon              = "example.com/@example"
   # Email
   email                 = "cyrille@frakturmedia.net"

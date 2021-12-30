@@ -9,7 +9,8 @@ featuredpath: 'date'
 slug: "friendly_batch_routing"
 description: "This post presents a web platform easing access to routing directions using the Google Maps API."
 type: post
-draft: false
+comments: false
+
 ---
 
 My work at the University of Luxembourg focuses on developing a residential model utilizing economic theory for agent location. Agents locate depending on many internal (family) and external (environment) factors. An import consideration for any household is a location’s accessibility to public (train station) and private (shopping) services and work. In order to determine the accessibility of a location you must determine the distance, time and/or cost of reaching all desirable locations.

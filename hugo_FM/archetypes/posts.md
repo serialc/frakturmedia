@@ -1,17 +1,18 @@
----
-title: ""
-author: "Cyrille MdC"
-date: ""
-categories:
-- A
-- B
-featured: ""
-featuredpath: 'date'
-slug: ""
-description: ""
-type: post
-draft: true
----
++++
+title = ""
+description = ""
+author = "Cyrille MdC"
+date = ""
+tags = [""]
+categories = [""]
+comments = false
+removeBlur = false
+type = post
+[[images]]
+  src = ""
+  alt = ""
+  stretch = ""
++++
 
 {{< fancybox "date" "fn" "caption." "galleryname" >}}
 
