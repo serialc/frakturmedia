@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="6.2217172"
+     inkscape:cx="242.859"
+     inkscape:cy="298.22956"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.500001;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="rect8397"
+       width="20.345095"
+       height="8.4531736"
+       x="43.723637"
+       y="65.948326" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#f8f8f8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="43.84507"
+       y="73.674286"
+       id="text2146"><tspan
+         sodipodi:role="line"
+         id="tspan2144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f8f8f8;fill-opacity:1;stroke-width:0.264583"
+         x="43.84507"
+         y="73.674286">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:MathJax_Fraktur;-inkscape-font-specification:'MathJax_Fraktur, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f8f8f8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.56319"
+       y="73.520828"
+       id="text2146-3"><tspan
+         sodipodi:role="line"
+         id="tspan2144-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:MathJax_Fraktur;-inkscape-font-specification:'MathJax_Fraktur, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f8f8f8;fill-opacity:1;stroke-width:0.264583"
+         x="50.56319"
+         y="73.520828">M</tspan></text>
+  </g>
+</svg>
