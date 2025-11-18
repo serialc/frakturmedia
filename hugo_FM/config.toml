@@ -33,7 +33,7 @@ disableLanguages        = []
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
-  socialShare           = ["twitter", "email"]
+  socialShare           = ["email"]
 #socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
   hideEmptyStats        = false
   toc                   = true
@@ -182,6 +182,6 @@ disableLanguages        = []
   orcid                 = ""
 #  researchgate          = "example"
 #  keybase               = "example"
-#  mastodon              = "example.com/@example"
+  mastodon              = "urbanists.social/@serial"
   # Email
   email                 = "cyrille@frakturmedia.net"
